@@ -13,4 +13,5 @@ CSS:
 2. [CSS_chooser_easy](https://github.com/KipJayChou/Front-end-learning/blob/main/Second_day/CSS_chooser_easy.html)
 
 ## Third_day:
-1. 
+1. [demo]()
+2. [causality]()
