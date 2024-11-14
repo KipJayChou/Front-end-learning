@@ -13,5 +13,6 @@ CSS:
 2. [CSS_chooser_easy](https://github.com/KipJayChou/Front-end-learning/blob/main/Second_day/CSS_chooser_easy.html)
 
 ## Third_day:
-1. [demo]()
-2. [causality]()
+1. [demo](https://github.com/KipJayChou/Front-end-learning/blob/main/Third_day/Demo.html)
+2. [causality](https://github.com/KipJayChou/Front-end-learning/blob/main/Third_day/Demo.html)
+3. 尝试跟着视频写一个登录注册页面......
