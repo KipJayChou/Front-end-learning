@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS causality </title>
+    <style>
+        .block {
+            background-color: aqua;
+            width: 100px;
+            heoght: 100px;
+        }
+        .inline {
+            background-color: brown
+        }
+        .inline-block {
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="font: border 50px 'KaiTi'">这是一个font复合属性实例</h1>
+    <p style="line-height: 40px">这是一段长文本这是一段长文本这是一段长文本这是一段长文本这是一段长文本这是一段长文本这是一段长文本这是一段长文本这是一段长文本这是一段长文本这是一段长文本这是一段长文本这是一段长文本</p>
+    <div class="block">这是一个块级元素</div>
+    <span class="inline">这是一个行内元素</span>
+    <br>
+    <img src="https://ooo.0x0.ooo/2024/11/07/OHbDn1.png" alt="无法显示图片" class="inline-block">
+    <br>
+    <div style="display: inline; background-color: aquamarine;">这是块元素转化为行内元素</div>
+</body>
+</html>
